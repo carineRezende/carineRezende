@@ -87,6 +87,14 @@ Foi assim que me apaixonei pela tecnologia e sigo explorando meu caminho, aprend
     src="https://i.postimg.cc/pXfV53DV/icons8-zapier-48.png"
 />
 
+<img 
+    align="left" 
+    alt="PowerBI" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="[https://i.postimg.cc/pXfV53DV/icons8-zapier-48.png](https://i.postimg.cc/7Y5z0HK1/icons8-poder-bi-2021-48.png)"
+/>
+
 <br/>
 <br/>
 

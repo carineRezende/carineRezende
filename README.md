@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia`**
 
-Me chamo Carine Rezende, tenho 25 anos e sou de Minas. Atualmente, estudo Análise e Desenvolvimento de Sistemas (ADS).
+Me chamo Carine Rezende, tenho 25 anos e sou de Minas 🧀☕🌄. Atualmente, estudo Análise e Desenvolvimento de Sistemas (ADS).
 Após uma breve passagem pelo mundo da engenharia aeronáutica, percebi que meu lugar estava nas telas e na tecnologia. Descobri que gosto de criar e acompanhar processos acontecendo diretamente pelo computador, e que a vida de aulas de aerodinâmica não era mais para mim.
 Foi assim que me apaixonei pela tecnologia e sigo explorando meu caminho, aprendendo e descobrindo onde posso brilhar.
 

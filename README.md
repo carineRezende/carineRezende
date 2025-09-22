@@ -107,7 +107,7 @@ Foi assim que me apaixonei pela tecnologia e sigo explorando meu caminho, aprend
     alt="Status" 
     height="200"
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carineRezende&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=carineRezende&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&cache_seconds=1000"
 />
 
 <img 
@@ -115,5 +115,5 @@ Foi assim que me apaixonei pela tecnologia e sigo explorando meu caminho, aprend
     alt="Status" 
     height="200"
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carineRezende&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carineRezende&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br&custom_title=Tecnologias&cache_seconds=1000"
 />

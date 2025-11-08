@@ -2,10 +2,11 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia`**
 
-Me chamo Carine Rezende, tenho 25 anos e sou de Minas 🧀☕🌄.
-Atualmente, estudo Análise e Desenvolvimento de Sistemas (ADS).
-Após uma breve passagem pelo mundo da engenharia aeronáutica, percebi que meu lugar estava nas telas e na tecnologia. Descobri que gosto de criar e acompanhar processos acontecendo diretamente pelo computador, e que a vida de aulas de aerodinâmica não era mais para mim.
-Foi assim que me apaixonei pela tecnologia e sigo explorando meu caminho, aprendendo e descobrindo onde posso brilhar.
+Tenho 25 anos, sou de Contagem/MG e atualmente estudo Análise e Desenvolvimento de Sistemas (ADS). Desde muito jovem, sempre fui fascinada por entender como as coisas acontecem e fazer as coisas acontecerem de fato — a famosa “mão na massa”. Essa curiosidade me levou inicialmente à engenharia aeronáutica, influenciada pela minha família, cheia de primos engenheiros em diversas áreas.
+
+Durante esse período, tive meu primeiro contato com programação por meio do Portugol e me encantei: escrever códigos e ver processos acontecerem na tela me conquistou completamente. Foi então que percebi que meu lugar não era mais estudando aerodinâmica — descobri que prefiro ver ideias decolarem na tela do computador!
+
+Hoje, sigo aprendendo e explorando diferentes áreas da tecnologia, ainda descobrindo onde posso brilhar. Estou em transição de uma função fora do universo de TI para atuar diretamente na área, e com isso tenho adquirido experiências em low-code, bancos de dados, processos e automações. Minha paixão é ver ideias se transformarem em resultados concretos na tela do computador, e estou sempre em busca de novos desafios e oportunidades para crescer.
 
 <a href="www.linkedin.com/in/carine-rezende-5a8955211" target="_blank">
     <img 
